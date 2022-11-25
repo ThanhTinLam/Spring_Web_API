@@ -3,7 +3,7 @@ package com.example.spring_web_api;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-class User{
+class User {
     public  String username;
     public String password;
 
