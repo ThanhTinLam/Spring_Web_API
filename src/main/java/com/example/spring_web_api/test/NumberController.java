@@ -1,4 +1,4 @@
-package com.example.spring_web_api;
+package com.example.spring_web_api.test;
 
 import com.example.spring_web_api.algo.MaxMinAlgo;
 import com.example.spring_web_api.algo.SumAlgo;
@@ -20,7 +20,7 @@ public class NumberController {
         return max;
     }
 
-    @PostMapping("/sum")
+    @PostMapping("/sum1")
     public Integer Sum(@RequestBody ThreeNumber sum3) {
         SumAlgo x = new SumAlgo();
         int sum = x.sum3Number(sum3);

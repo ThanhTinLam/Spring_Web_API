@@ -69,7 +69,6 @@ public class SumAlgo {
         for (int i = 0; i < n - 1; i++)
             for (int j = 0; j < n - i - 1; j++)
                 if (numbers.get(j) > numbers.get(j + 1)) {
-                    // swap arr[j+1] and arr[j]
                     int temp = numbers.get(j);
                     numbers.set(j, numbers.get(j + 1));
                     numbers.set(j + 1, temp);

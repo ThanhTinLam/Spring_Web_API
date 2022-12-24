@@ -1,8 +1,7 @@
-package com.example.spring_web_api;
+package com.example.spring_web_api.test;
 
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
 class User {
     public  String username;
     public String password;
