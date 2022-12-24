@@ -1,4 +1,3 @@
-# Spring_Web_API
 ## Hey, Thanh Tin here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ThanhTinLam&theme=dark&show_icons=true">](https://metrics.lecoq.io/ThanhTinLam#gh-dark-mode-only)
@@ -57,11 +56,11 @@ I'm **Thanh** **Tin**, a student at Lonestar College.
       <a href="https://www.coursera.org/account/accomplishments/verify/GW9V2GCAQH2V">Progamming Foundation</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="300px;" alt="hua1995116"/>
+      <a href="https://www.coursera.org/account/accomplishments/verify/879DKFJV69U4">
+        <img src="https://user-images.githubusercontent.com/110953007/209446557-027198b4-ab75-448d-a586-a5b4947bbf17.png" width="300px;" alt="hua1995116"/>
       </a>
       <br />
-      <a href="https://github.com/hua1995116">Data</a>
+      <a href="https://www.coursera.org/account/accomplishments/verify/879DKFJV69U4">Data</a>
     </td>
     
   </tr>
