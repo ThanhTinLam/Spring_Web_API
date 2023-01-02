@@ -13,6 +13,13 @@ I'm **Thanh** **Tin**, a student at Lonestar College.
 
 ---
 
+#### :sparkles: [My Project]
+
+-   📝: [Calculator_Frontend](https://github.com/ThanhTinLam/Calculator_Frontend.git)
+
+-   📝: [Spring_Web_API](https://github.com/ThanhTinLam/Spring_Web_API.git)
+---
+
 #### :sparkles: [My courses]
 
 <!--START_SECTION:top-followers-->
